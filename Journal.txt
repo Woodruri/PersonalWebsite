@@ -1,0 +1,7 @@
+Riley Woodruff Personal Website Journal
+
+Mar 10:
+    I'm starting on my project now (maybe a little later than I should).
+I'm thinking about making the project fairly traditional with a navbar on top 
+that links to an about me, my resume, my projects, and a contact form.
+There will be a picture that's kinda stylized of me and I'll deploy from github.
