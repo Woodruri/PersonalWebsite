@@ -21,3 +21,5 @@ etc.
 
 Mar 14: I honestly haven't made much progress but I am hoping to do all of the html today
 and finish up with Javascript and css 
+
+Mar 14 update: I made a ton of progress, bootstrap is pretty neat.
