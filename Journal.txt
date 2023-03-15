@@ -26,3 +26,7 @@ Mar 14 update: I made a ton of progress, bootstrap is pretty neat.
 
 Mar 14 udpate #2: I made even more progress and basically have the project done.
 Right now I am just messing around with some fun javascript stuff
+
+Mar 14 udpate #3: I have finished the project entirely and am about to turn it in.
+I had way too much fun in the last little bit making a little easter egg.
+Whoever my grader is I ask that you look around for a bit and see if you can find it
