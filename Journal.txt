@@ -23,3 +23,6 @@ Mar 14: I honestly haven't made much progress but I am hoping to do all of the h
 and finish up with Javascript and css 
 
 Mar 14 update: I made a ton of progress, bootstrap is pretty neat.
+
+Mar 14 udpate #2: I made even more progress and basically have the project done.
+Right now I am just messing around with some fun javascript stuff
